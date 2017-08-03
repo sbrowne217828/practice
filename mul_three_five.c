@@ -5,7 +5,7 @@ int	multhreefive(int n)
 	int	i;
 	int	nbr;
 
-	
+
 	i = 0;
 	nbr = 0;
 	while (i < n)
